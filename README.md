@@ -13,6 +13,13 @@ A map Application to organize and track your workouts(running or cycling), This 
 - User can click on a workout in the list to move to the workout on the map.
 - All the workouts information will be saved in the localstorage so that application will not lose its state in case browser is loaded.
 
+
+# Mapty architecture
+![](Mapty-architecture-final.png)
+
+# Flowchart Diagram
+![](Mapty-flowchart.png)
+
 ## Note
 
 Not for mobile use as it is not responsive yet.
